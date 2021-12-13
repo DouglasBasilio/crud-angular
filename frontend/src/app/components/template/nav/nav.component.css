@@ -10,3 +10,12 @@
 .sidenav i {
     padding-right: 10px;
 }
+
+.content {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    justify-content: center;
+    padding: 16px;
+    background-color: #FFF;
+}
