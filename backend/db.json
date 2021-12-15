@@ -3,22 +3,37 @@
     {
       "id": 1,
       "name:": "Pão de queijo congelado",
-      "price": 13.89
+      "price": "13.89"
     },
     {
       "id": 2,
       "name:": "Churros congelado",
-      "price": 10.90
+      "price": "10.9"
     },
     {
       "id": 3,
       "name:": "Torta de frango",
-      "price": 28.70
+      "price": "28.7"
     },
     {
       "name": "Enroladinho de presunto e queijo",
       "price": "25.00",
       "id": 4
+    },
+    {
+      "name": "Produto do formulário",
+      "price": "9.99",
+      "id": 5
+    },
+    {
+      "name": "Coxinha pré-frita",
+      "price": "14.99",
+      "id": 6
+    },
+    {
+      "name": "Empanadas Argentinas",
+      "price": 8.99,
+      "id": 7
     }
   ]
 }
