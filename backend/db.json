@@ -2,22 +2,22 @@
   "products": [
     {
       "id": 1,
-      "name:": "Caneta BIC Preta",
-      "price": 5.89
+      "name:": "Pão de queijo congelado",
+      "price": 13.89
     },
     {
       "id": 2,
-      "name:": "Notebook Mac Pro",
-      "price": 12000.9
+      "name:": "Churros congelado",
+      "price": 10.90
     },
     {
       "id": 3,
-      "name:": "Samsung S20+",
-      "price": 5000.9
+      "name:": "Torta de frango",
+      "price": 28.70
     },
     {
-      "name": "Geladeira Brastemp",
-      "price": "1913.99",
+      "name": "Enroladinho de presunto e queijo",
+      "price": "25.00",
       "id": 4
     }
   ]
