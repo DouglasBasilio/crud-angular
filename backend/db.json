@@ -1,7 +1,7 @@
 {
   "products": [
     {
-      "name": "Coxinha congelada",
+      "name": "Coxinha congelada - 100 unidades",
       "price": 23.9,
       "id": 1
     },
@@ -26,7 +26,7 @@
       "id": 5
     },
     {
-      "name": "Nhoque recheado",
+      "name": "Nhoque recheado com queijo",
       "price": 11.99,
       "id": 6
     }
