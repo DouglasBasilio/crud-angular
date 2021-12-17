@@ -1,39 +1,34 @@
 {
   "products": [
     {
-      "id": 1,
-      "name:": "Pão de queijo congelado",
-      "price": "13.89"
+      "name": "Coxinha congelada",
+      "price": 23.9,
+      "id": 1
     },
     {
-      "id": 2,
-      "name:": "Churros congelado",
-      "price": "10.9"
+      "name": "Batata Frita 1kg",
+      "price": 13.65,
+      "id": 2
     },
     {
-      "id": 3,
-      "name:": "Torta de frango",
-      "price": "28.7"
+      "name": "Pão de Queijo - 50 unidades",
+      "price": 14.99,
+      "id": 3
     },
     {
       "name": "Enroladinho de presunto e queijo",
-      "price": "25.00",
+      "price": 25.9,
       "id": 4
     },
     {
-      "name": "Produto do formulário",
-      "price": "9.99",
+      "name": "Churros - 50 unidades",
+      "price": 19.9,
       "id": 5
     },
     {
-      "name": "Coxinha pré-frita",
-      "price": "14.99",
+      "name": "Nhoque recheado",
+      "price": 11.99,
       "id": 6
-    },
-    {
-      "name": "Empanadas Argentinas",
-      "price": 8.99,
-      "id": 7
     }
   ]
 }
