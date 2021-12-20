@@ -29,6 +29,11 @@
       "name": "Leite condensado",
       "price": 5.89,
       "id": 6
+    },
+    {
+      "name": "Lasanha quatro queijos",
+      "price": 11.9,
+      "id": 7
     }
   ]
 }
